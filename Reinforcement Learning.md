@@ -21,6 +21,7 @@ The discount factor is responsible for the importance of future rewards.
 | ----------- | ------------ | ------------ |
 | **State 0** | Q-Value      | Q-Value      |
 | **State 1** | Q-Value      | Q-Value      |
+|             |              |              |
 Each Q-Value is updated based on the following algorithm:
 
 > [!Q-Value]
