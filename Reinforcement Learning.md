@@ -40,6 +40,8 @@ The main problem of Q-Learning is scaling to environments with large number of s
 To deal with large environment scaling **Deep Q-Network** was introduced.
 Instead of using a table for q-values we use a neural network to calculate the q-values.
 
+Example of DDQN(Off-Policy) on CartPoleV2 environment:
+[Double DQN](https://github.com/NickSlm/ML/blob/main/CartPoleV2.ipynb)
 
-
-
+Example of Policy Gradient(On-Policy) on LunarLanderV3 environment:
+[Policy Gradient](https://github.com/NickSlm/ML/blob/main/Lunar%20LanderV3.ipynb)
