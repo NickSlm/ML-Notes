@@ -7,7 +7,7 @@ Reinforcement Learning is another type of Machine learning Paradigm with few key
 
 In general the main goal of RL is optimize our model to maximize the rewards.
 
-There are Two main types of Reinforcement Learning Algorithms: [[RL On-Policy]] and [[RL Off-Policy]] ,
+There are Two main types of Reinforcement Learning Algorithms: On-Policy(SARSA, Policy Gradient) and Off-Policy(Q-Learning, DQN, DDQN) ,
 The main difference between them is the way of training the target network,
 and the relation between the behavior policy and target policy.
 
